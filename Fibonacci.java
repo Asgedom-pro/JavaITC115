@@ -1,3 +1,6 @@
+//Asgedom
+//08/10/2018
+//Excercise on Fibonacci
 
 public class Fibonacci {
 
@@ -6,16 +9,12 @@ public class Fibonacci {
 		int c=a+b;
 		 System.out.println(a);
 		 System.out.println(b);
-		 
-		 
-		
+		 	
 		for(int i=0; i<=10; i++) {
-			
-				c=a+b;
-				a=b;
-				b=c;
-				System.out.println(c);
-				
+		c=a+b;
+		a=b;
+		b=c;
+		System.out.println(c);
 				
 	}
 	}
