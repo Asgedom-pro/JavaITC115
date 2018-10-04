@@ -1,6 +1,6 @@
 //Asgedom
 //08/10/2018
-//Excercise on Fibonacci
+//Java Excercise on Fibonacci
 
 public class Fibonacci {
 
