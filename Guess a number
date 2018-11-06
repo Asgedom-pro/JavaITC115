@@ -22,3 +22,18 @@ public class Guesses {
 	}
 
 }
+
+//comment You want the condition to be  <48 not !=.
+/*
+public static void makeGuesses() {
+    Random rand = new Random();
+    int guess = 0;
+    int count = 0;
+    while (guess < 48) {
+        count++;
+        guess = rand.nextInt(50) + 1;
+        System.out.println("guess = " + guess);
+    }
+    System.out.println("total guesses = " + count);
+}
+*/
